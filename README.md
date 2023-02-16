@@ -6,5 +6,5 @@ Supervised learning Algorithms trains the machine to do something or exact predi
 ### Regression
 - [HousePrediction_LinearRegression_RandomForest](https://github.com/Thilagavijayan/ML_SupervisedLearning/tree/main/HousePrediction_LinearRegression_RandomForest)
 ### Computer Vision
-- [Face Detection using image]()
-- [Face Recognition]()
+- [Face Detection using image](https://github.com/Thilagavijayan/ML_SupervisedLearning/blob/main/Face_Detection/Face_Detection%20using%20image.py)
+- [Face Recognition](https://github.com/Thilagavijayan/ML_SupervisedLearning/blob/main/Face_Detection/Face_Recognition.py)
